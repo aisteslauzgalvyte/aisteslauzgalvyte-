@@ -23,7 +23,7 @@ I am a newcomer to data analytics, passionate about transforming raw data into m
 **PowerBI: Most Popular Fast Food Industries in USA**
 - Visualized industry trends and consumer preferences
 - Provided actionable insights for business strategy
-- [Download PowerBI Project](./FastFoodIndustriesUSA.pbix)
+- [Download Power BI project](./Power%20BI%20projektas_Aist%C4%97%20Slauzgalvyt%C4%97%20(1).pbix)
 
 ---
 
